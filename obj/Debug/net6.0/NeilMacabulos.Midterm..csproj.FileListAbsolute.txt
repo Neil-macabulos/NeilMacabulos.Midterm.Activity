@@ -1,0 +1,8 @@
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..csproj.AssemblyReference.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..AssemblyInfoInputs.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..AssemblyInfo.cs
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..csproj.CoreCompileInputs.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..RazorAssemblyInfo.cache
+C:\Users\VGD PC 2\Desktop\neil\NeilMacabulos.Midterm\obj\Debug\net6.0\NeilMacabulos.Midterm..RazorAssemblyInfo.cs
